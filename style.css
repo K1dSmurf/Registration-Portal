@@ -1,0 +1,57 @@
+body {
+    margin:0;
+    padding:0;
+    background-image: url("img/bkgrnd.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.carousel-item{
+
+    width: 1000px;
+    height: 500px;
+    
+
+}
+
+.box {
+    width: 1000px;
+    height: 500px;
+    border: transparent;
+    margin: auto;
+    padding: 10px;
+    
+}
+
+
+h1 {
+
+    font-family: 'Courier New', Courier, monospace ;
+    color: white;
+    background-color: red;
+}
+
+.box1 {
+    width: 600px;
+    height: 600px;
+    border: transparent;
+    margin: auto;
+    padding: 30px;
+    
+}
+
+
+p {
+
+   background-color: white;
+
+}
+
+section{
+    background-color: rgb(177, 206, 206);
+    
+}
+
+
+
